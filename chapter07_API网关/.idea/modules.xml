@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/chapter07_API网关.iml" filepath="$PROJECT_DIR$/.idea/chapter07_API网关.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-demo/zuul-demo.iml" filepath="$PROJECT_DIR$/zuul-demo/zuul-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-file-demo/zuul-file-demo.iml" filepath="$PROJECT_DIR$/zuul-file-demo/zuul-file-demo.iml" />
+    </modules>
+  </component>
+</project>

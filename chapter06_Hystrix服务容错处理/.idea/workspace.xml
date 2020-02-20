@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6037de63-ed04-42b5-bd98-3205fe874431" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XhwrpzCNp25fapC817UM1OGtJr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.7763158" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.nh.feignClient" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HystrixDashboardDemoApplication">
+    <configuration name="Collapser_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nh.Collapser_Client" />
+      <module name="hystrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nh.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Command_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nh.Command_Client" />
+      <module name="hystrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nh.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaHystrixDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nh.EurekaHystrixDemoApplication" />
+      <module name="eureka-hystrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.HystrixDashboardDemoApplication" />
+      <module name="hystrix-dashboard-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Collapser_Client" />
+      <item itemvalue="Application.Command_Client" />
+      <item itemvalue="Application.EurekaHystrixDemoApplication" />
+      <item itemvalue="Application.HystrixDashboardDemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HystrixDashboardDemoApplication" />
+        <item itemvalue="Application.EurekaHystrixDemoApplication" />
+        <item itemvalue="Application.Collapser_Client" />
+        <item itemvalue="Application.Command_Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6037de63-ed04-42b5-bd98-3205fe874431" name="Default Changelist" comment="" />
+      <created>1581511835050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581511835050</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582023077359">
+      <screen x="0" y="35" width="1920" height="1003" />
+    </state>
+    <state x="414" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.35.1920.1003@0.35.1920.1003" timestamp="1582023077359" />
+    <state x="721" y="179" width="468" height="721" key="#com.intellij.ide.util.MemberChooser" timestamp="1582020678712">
+      <screen x="0" y="35" width="1920" height="1003" />
+    </state>
+    <state x="721" y="179" width="468" height="721" key="#com.intellij.ide.util.MemberChooser/0.35.1920.1003@0.35.1920.1003" timestamp="1582020678712" />
+    <state x="690" y="237" width="530" height="605" key="FileChooserDialogImpl" timestamp="1582030087464">
+      <screen x="0" y="35" width="1920" height="1003" />
+    </state>
+    <state x="690" y="237" width="530" height="605" key="FileChooserDialogImpl/0.35.1920.1003@0.35.1920.1003" timestamp="1582030087464" />
+    <state width="1856" height="303" key="GridCell.Tab.0.bottom" timestamp="1582035456258">
+      <screen x="0" y="35" width="1920" height="1003" />
+    </state>
+    <state width="1856" height="303" key="GridCell.Tab.0.bottom/0.35.1920.1003@0.35.1920.1003" timestamp="1582035456258" />
+    <state width="1856" height="303" key="GridCell.Tab.0.center" timestamp="1582035456258">
+      <screen x="0" y="35" width="1920" height="1003" />
+    </state>
+    <state width="1856" height="303" key="GridCell.Tab.0.center/0.35.1920.1003@0.35.1920.1003" timestamp="1582035456258" />
+    <state width="1856" height="303" key="GridCell.Tab.0.left" timestamp="1582035456257">
+      <screen x="0" y="35" width="1920" height="1003" />
+    </state>
+    <state width="1856" height="303" key="GridCell.Tab.0.left/0.35.1920.1003@0.35.1920.1003" timestamp="1582035456257" />
+    <state width="1856" height="303" key="GridCell.Tab.0.right" timestamp="1582035456258">
+      <screen x="0" y="35" width="1920" height="1003" />
+    </state>
+    <state width="1856" height="303" key="GridCell.Tab.0.right/0.35.1920.1003@0.35.1920.1003" timestamp="1582035456258" />
+    <state width="1856" height="338" key="GridCell.Tab.1.bottom" timestamp="1582028748308">
+      <screen x="0" y="35" width="1920" height="1003" />
+    </state>
+    <state width="1856" height="338" key="GridCell.Tab.1.bottom/0.35.1920.1003@0.35.1920.1003" timestamp="1582028748308" />
+    <state width="1856" height="338" key="GridCell.Tab.1.center" timestamp="1582028748308">
+      <screen x="0" y="35" width="1920" height="1003" />
+    </state>
+    <state width="1856" height="338" key="GridCell.Tab.1.center/0.35.1920.1003@0.35.1920.1003" timestamp="1582028748308" />
+    <state width="1856" height="338" key="GridCell.Tab.1.left" timestamp="1582028748307">
+      <screen x="0" y="35" width="1920" height="1003" />
+    </state>
+    <state width="1856" height="338" key="GridCell.Tab.1.left/0.35.1920.1003@0.35.1920.1003" timestamp="1582028748307" />
+    <state width="1856" height="338" key="GridCell.Tab.1.right" timestamp="1582028748308">
+      <screen x="0" y="35" width="1920" height="1003" />
+    </state>
+    <state width="1856" height="338" key="GridCell.Tab.1.right/0.35.1920.1003@0.35.1920.1003" timestamp="1582028748308" />
+    <state x="333" y="84" width="1254" height="912" key="SettingsEditor" timestamp="1582032569655">
+      <screen x="0" y="35" width="1920" height="1003" />
+    </state>
+    <state x="333" y="84" width="1254" height="912" key="SettingsEditor/0.35.1920.1003@0.35.1920.1003" timestamp="1582032569655" />
+    <state x="86" y="214" width="1738" height="653" key="new project wizard" timestamp="1582027914143">
+      <screen x="0" y="35" width="1920" height="1003" />
+    </state>
+    <state x="86" y="214" width="1738" height="653" key="new project wizard/0.35.1920.1003@0.35.1920.1003" timestamp="1582027914143" />
+  </component>
+</project>
