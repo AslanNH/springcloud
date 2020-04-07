@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87dce9c4-11e1-4dea-9a78-1564327d1b1b" name="Default Changelist" comment="" />
+    <list default="true" id="87dce9c4-11e1-4dea-9a78-1564327d1b1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../chapter08_API网关之SpringCloudGateway/gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter08_API网关之SpringCloudGateway/gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter08_API网关之SpringCloudGateway/gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter08_API网关之SpringCloudGateway/gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter08_API网关之SpringCloudGateway/gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter08_API网关之SpringCloudGateway/gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter08_API网关之SpringCloudGateway/gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter08_API网关之SpringCloudGateway/gateway/src/main/java/com/nh/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter08_API网关之SpringCloudGateway/gateway/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -16,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WIBLpIzYUdlh6Vymyl3InvcrIP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springbatchStudy/easybatch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/eureka-client-user-service" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="ServiceViewManager">
@@ -56,9 +70,9 @@
       <screen x="0" y="35" width="1920" height="1003" />
     </state>
     <state x="768" y="421" width="374" height="237" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.35.1920.1003@0.35.1920.1003" timestamp="1578831524812" />
-    <state x="690" y="237" width="530" height="605" key="FileChooserDialogImpl" timestamp="1582171279420">
+    <state x="690" y="237" width="530" height="605" key="FileChooserDialogImpl" timestamp="1583214692549">
       <screen x="0" y="35" width="1920" height="1003" />
     </state>
-    <state x="690" y="237" width="530" height="605" key="FileChooserDialogImpl/0.35.1920.1003@0.35.1920.1003" timestamp="1582171279420" />
+    <state x="690" y="237" width="530" height="605" key="FileChooserDialogImpl/0.35.1920.1003@0.35.1920.1003" timestamp="1583214692549" />
   </component>
 </project>
