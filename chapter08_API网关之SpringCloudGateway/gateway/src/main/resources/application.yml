@@ -1,0 +1,44 @@
+server:
+  port: 2001
+spring:
+  mvc:
+    favicon:
+      enabled: false
+  application:
+    name: gateway
+  cloud:
+    gateway:
+      routes:
+        - id: user-service
+          uri: lb://eureka-client-user-service
+          predicates:
+          - Path=/eureka-client-user-service/**
+          filters:
+              - StripPrefix=1
+              #限流
+              - name: RequestRateLimiter
+                args:
+                  redis-rate-limiter.replenishRate: 10
+                  redis-rate-limiter.burstCapacity: 20
+                  key-resolver: "#{@ipKeyResolver}"
+              #熔断
+              #- name: Hystrix
+               # args:
+               #   name: fallbackcmd
+                #  fallbackUri: forward:/fallback
+              #重试
+              #- name: Retry
+              #  args:
+               #   retries: 3
+                #  series: SERVER_ERROR
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http:/localhost:8888/eureka/,http://localhost:9999/eureka/
+  instance:
+    preferIpAddress: true
+    instance-id: ${spring.application.name}:${spring.cloud.client.ip-address}:${server.port}
