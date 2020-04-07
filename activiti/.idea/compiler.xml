@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="activit-project" />
+        <module name="activiti05" />
+        <module name="activiti04" />
+        <module name="activiti03" />
+        <module name="activiti02" />
+        <module name="activiti01" />
+        <module name="activiti06" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activit-project" target="1.7" />
+      <module name="activiti01" target="1.7" />
+      <module name="activiti02" target="1.7" />
+      <module name="activiti03" target="1.7" />
+      <module name="activiti04" target="1.7" />
+      <module name="activiti05" target="1.7" />
+      <module name="activiti06" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="activiti06" options="-parameters" />
+    </option>
+  </component>
+</project>
